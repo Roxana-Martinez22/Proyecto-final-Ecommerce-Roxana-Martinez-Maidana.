@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ritwickdey.liveserver",
+        "negokaz.live-server-preview",
+        "ms-ceintl.vscode-language-pack-es",
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.vscode-dotnet-runtime"
+    ]
+}
