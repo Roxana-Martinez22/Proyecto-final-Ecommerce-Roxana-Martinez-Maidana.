@@ -8,5 +8,5 @@ Descripción:Esta web fue creada en base a un negocio de una persona apasionada 
 La web se llama Dulces Isi, donde se pretende crear una experiencia de fácil acceso visual y puedan encontrar la mejor opción para agasajar a los que más aman y hacernos parte de esos momentos de calidad en familia.
 
 
-Técnologías: HTML - CSS 
+Técnologías: HTML - CSS - JS
 
